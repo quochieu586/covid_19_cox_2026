@@ -1,0 +1,8 @@
+# ignore .__pycache__ files in all directories
+**/__pycache__/**
+
+# ignore .DS_Store files in all directories
+**/.DS_Store
+
+# ignore .vscode files in all directories
+**/.vscode/**

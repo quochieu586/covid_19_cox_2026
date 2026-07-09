@@ -1,0 +1,233 @@
+iso_code,continent,population,location,median_age,classification,Overall_score,group,first_case,duration,status
+ABW,North America,106459.0,Aruba,41.2,HIGH-INCOME,5.81,Hybrid regime,2020-03-22,148,True
+AFG,Asia,41128772.0,Afghanistan,18.6,LOW-INCOME,0.26,Authoritarian,2020-03-01,1541,False
+AGO,Africa,35588996.0,Angola,16.8,LOWER-MIDDLE INCOME,4.18,Hybrid regime,2020-04-05,1506,False
+AIA,North America,15877.0,Anguilla,37.2,LOWER-MIDDLE INCOME,9.81,Full democracy,2020-03-29,393,True
+ALB,Europe,2842318.0,Albania,38.0,UPPER-MIDDLE-INCOME,6.28,Flawed democracy,2020-03-15,267,True
+AND,Europe,79843.0,Andorra,42.9,HIGH-INCOME,7.06,Flawed democracy,2020-03-08,22,True
+ARE,Asia,9441138.0,United Arab Emirates,34.0,HIGH-INCOME,3.01,Authoritarian,2020-02-02,351,True
+ARG,South America,45510324.0,Argentina,31.9,UPPER-MIDDLE-INCOME,6.62,Flawed democracy,2020-01-02,270,True
+ARM,Asia,2780472.0,Armenia,35.7,UPPER-MIDDLE-INCOME,5.42,Hybrid regime,2020-03-08,225,True
+ASM,Oceania,44295.0,American Samoa,29.7,HIGH-INCOME,3.65,Authoritarian,2021-09-19,169,True
+ATG,North America,93772.0,Antigua and Barbuda,32.1,HIGH-INCOME,8.09,Full democracy,2020-03-15,344,True
+AUS,Oceania,26177410.0,Australia,37.9,HIGH-INCOME,8.66,Full democracy,2020-01-26,701,True
+AUT,Europe,8939617.0,Austria,44.4,HIGH-INCOME,8.28,Full democracy,2020-03-01,246,True
+AZE,Asia,10358078.0,Azerbaijan,32.4,UPPER-MIDDLE-INCOME,2.8,Authoritarian,2020-03-01,274,True
+BDI,Africa,12889583.0,Burundi,17.5,LOW-INCOME,2.13,Authoritarian,2020-04-05,1506,False
+BEL,Europe,11655923.0,Belgium,41.8,HIGH-INCOME,7.64,Flawed democracy,2020-02-09,246,True
+BEN,Africa,13352864.0,Benin,18.8,LOWER-MIDDLE INCOME,4.68,Hybrid regime,2020-03-22,1520,False
+BES,North America,27052.0,Bonaire Sint Eustatius and Saba,39.6,HIGH-INCOME,7.18,Flawed democracy,2020-04-05,176,True
+BFA,Africa,22673764.0,Burkina Faso,17.6,LOW-INCOME,2.73,Authoritarian,2020-03-15,1527,False
+BGD,Asia,171186368.0,Bangladesh,27.5,LOWER-MIDDLE INCOME,5.87,Hybrid regime,2020-01-05,1615,False
+BGR,Europe,6781955.0,Bulgaria,44.7,UPPER-MIDDLE-INCOME,6.41,Flawed democracy,2020-03-08,239,True
+BHR,Asia,1472237.0,Bahrain,32.4,HIGH-INCOME,2.52,Authoritarian,2020-03-01,99,True
+BHS,North America,409989.0,Bahamas,34.3,HIGH-INCOME,6.62,Flawed democracy,2020-03-22,218,True
+BIH,Europe,3233530.0,Bosnia and Herzegovina,42.5,UPPER-MIDDLE-INCOME,5.0,Hybrid regime,2020-03-08,232,True
+BLM,North America,10994.0,Saint Barthelemy,39.1,LOW-INCOME,7.38,Flawed democracy,2020-03-08,204,True
+BLR,Europe,9534956.0,Belarus,40.3,UPPER-MIDDLE-INCOME,1.99,Authoritarian,2020-03-01,708,True
+BLZ,North America,405285.0,Belize,25.0,UPPER-MIDDLE-INCOME,8.81,Full democracy,2020-03-29,253,True
+BMU,North America,64207.0,Bermuda,45.3,HIGH-INCOME,4.2,Hybrid regime,2020-03-22,274,True
+BOL,South America,12224114.0,Bolivia,25.4,LOWER-MIDDLE INCOME,4.2,Hybrid regime,2020-03-15,659,True
+BRA,South America,215313504.0,Brazil,33.5,UPPER-MIDDLE-INCOME,6.68,Flawed democracy,2020-01-05,379,True
+BRB,North America,281646.0,Barbados,39.8,HIGH-INCOME,7.69,Flawed democracy,2020-03-22,337,True
+BRN,Asia,449002.0,Brunei,32.4,HIGH-INCOME,6.17,Flawed democracy,2020-03-15,526,True
+BTN,Asia,782457.0,Bhutan,28.6,LOWER-MIDDLE INCOME,5.54,Hybrid regime,2020-01-05,764,True
+BWA,Africa,2630300.0,Botswana,25.8,UPPER-MIDDLE-INCOME,7.73,Flawed democracy,2020-04-05,330,True
+CAF,Africa,5579148.0,Central African Republic,18.3,LOW-INCOME,1.18,Authoritarian,2020-03-15,1527,False
+CAN,North America,38454328.0,Canada,41.4,HIGH-INCOME,8.69,Full democracy,2020-01-26,701,True
+CHE,Europe,8740471.0,Switzerland,43.1,HIGH-INCOME,9.14,Full democracy,2020-03-01,232,True
+CHL,South America,19603736.0,Chile,35.4,HIGH-INCOME,7.98,Flawed democracy,2020-03-01,106,True
+CHN,Asia,1425887360.0,China,38.7,UPPER-MIDDLE-INCOME,2.12,Authoritarian,2020-01-05,1079,True
+CIV,Africa,28160548.0,Cote d'Ivoire,18.7,LOWER-MIDDLE INCOME,4.22,Hybrid regime,2020-03-15,1527,False
+CMR,Africa,27914542.0,Cameroon,18.8,LOWER-MIDDLE INCOME,2.56,Authoritarian,2020-03-08,1534,False
+COD,Africa,99010216.0,Democratic Republic of Congo,17.0,LOW-INCOME,1.68,Authoritarian,2020-03-15,1527,False
+COG,Africa,5970430.0,Congo,19.0,LOWER-MIDDLE INCOME,2.79,Authoritarian,2020-03-15,1527,False
+COK,Oceania,17032.0,Cook Islands,33.2,HIGH-INCOME,8.14,Full democracy,2022-02-20,15,True
+COL,South America,51874028.0,Colombia,32.2,UPPER-MIDDLE-INCOME,6.55,Flawed democracy,2020-01-05,358,True
+COM,Africa,836783.0,Comoros,20.4,LOWER-MIDDLE INCOME,3.04,Authoritarian,2020-05-03,1478,False
+CPV,Africa,593162.0,Cape Verde,25.7,LOWER-MIDDLE INCOME,7.65,Flawed democracy,2020-01-05,470,True
+CRI,North America,5180836.0,Costa Rica,33.6,UPPER-MIDDLE-INCOME,8.29,Full democracy,2020-03-08,421,True
+CUB,North America,11212198.0,Cuba,43.1,UPPER-MIDDLE-INCOME,2.65,Authoritarian,2020-03-15,477,True
+CUW,North America,191173.0,Curacao,41.7,HIGH-INCOME,6.03,Flawed democracy,2020-03-15,253,True
+CYM,North America,68722.0,Cayman Islands,37.6,HIGH-INCOME,9.61,Full democracy,2020-03-15,589,True
+CYP,Europe,896007.0,Cyprus,37.3,HIGH-INCOME,7.38,Flawed democracy,2020-03-15,260,True
+CZE,Europe,10493990.0,Czechia,43.3,HIGH-INCOME,7.97,Flawed democracy,2020-03-08,218,True
+DEU,Europe,83369840.0,Germany,46.6,HIGH-INCOME,8.8,Full democracy,2020-01-05,344,True
+DJI,Africa,1120851.0,Djibouti,25.4,LOWER-MIDDLE INCOME,2.7,Authoritarian,2020-01-05,1597,False
+DMA,North America,72758.0,Dominica,31.9,UPPER-MIDDLE-INCOME,6.28,Flawed democracy,2020-03-29,505,True
+DNK,Europe,5882259.0,Denmark,42.3,HIGH-INCOME,9.28,Full democracy,2020-03-01,281,True
+DOM,North America,11228821.0,Dominican Republic,27.6,UPPER-MIDDLE-INCOME,6.44,Flawed democracy,2020-03-08,673,True
+DZA,Africa,44903228.0,Algeria,29.1,LOWER-MIDDLE INCOME,3.66,Authoritarian,2020-01-05,1597,False
+ECU,South America,18001002.0,Ecuador,28.1,UPPER-MIDDLE-INCOME,5.41,Hybrid regime,2020-03-08,680,True
+EGY,Africa,110990096.0,Egypt,25.3,LOWER-MIDDLE INCOME,2.93,Authoritarian,2020-01-05,1597,False
+ERI,Africa,3684041.0,Eritrea,19.3,LOW-INCOME,1.97,Authoritarian,2020-03-22,1520,False
+ESP,Europe,47558632.0,Spain,45.5,HIGH-INCOME,8.07,Full democracy,2020-01-19,274,True
+EST,Europe,1326064.0,Estonia,42.7,HIGH-INCOME,7.96,Flawed democracy,2020-03-01,29,True
+ETH,Africa,123379928.0,Ethiopia,19.8,LOW-INCOME,3.37,Authoritarian,2020-03-15,1527,False
+FIN,Europe,5540745.0,Finland,42.8,HIGH-INCOME,9.3,Full democracy,2020-02-02,666,True
+FJI,Oceania,929769.0,Fiji,28.6,UPPER-MIDDLE-INCOME,5.55,Hybrid regime,2020-03-22,470,True
+FLK,South America,3801.0,Falkland Islands,39.8,UPPER-MIDDLE-INCOME,9.61,Full democracy,2020-04-05,372,True
+FRA,Europe,67813000.0,France,42.0,HIGH-INCOME,8.07,Full democracy,2020-01-05,281,True
+FRO,Europe,53117.0,Faeroe Islands,37.8,HIGH-INCOME,6.41,Flawed democracy,2020-03-08,575,True
+FSM,Oceania,114178.0,Micronesia (country),23.0,LOWER-MIDDLE INCOME,6.33,Flawed democracy,2022-04-24,99,True
+GAB,Africa,2388997.0,Gabon,23.1,UPPER-MIDDLE-INCOME,2.18,Authoritarian,2020-03-15,1527,False
+GBR,Europe,67508936.0,United Kingdom,40.8,HIGH-INCOME,8.28,Full democracy,2020-01-05,288,True
+GEO,Asia,3744385.0,Georgia,38.7,UPPER-MIDDLE-INCOME,5.2,Hybrid regime,2020-03-01,239,True
+GGY,Europe,63329.0,Guernsey,39.3,HIGH-INCOME,5.57,Hybrid regime,2020-03-08,330,True
+GHA,Africa,33475870.0,Ghana,21.1,LOWER-MIDDLE INCOME,6.3,Flawed democracy,2020-03-15,1527,False
+GIB,Europe,32677.0,Gibraltar,41.9,HIGH-INCOME,8.8,Full democracy,2020-03-08,225,True
+GIN,Africa,13859349.0,Guinea,19.0,LOWER-MIDDLE INCOME,2.21,Authoritarian,2020-03-15,1527,False
+GLP,North America,395762.0,Guadeloupe,43.4,LOW-INCOME,9.39,Full democracy,2020-03-15,183,True
+GMB,Africa,2705995.0,Gambia,17.5,LOW-INCOME,4.47,Hybrid regime,2020-03-22,1520,False
+GNB,Africa,2105580.0,Guinea-Bissau,19.4,LOW-INCOME,2.45,Authoritarian,2020-03-29,1513,False
+GNQ,Africa,1674916.0,Equatorial Guinea,22.4,UPPER-MIDDLE-INCOME,1.92,Authoritarian,2020-03-15,1527,False
+GRC,Europe,10384972.0,Greece,45.3,HIGH-INCOME,8.14,Full democracy,2020-03-01,260,True
+GRD,North America,125459.0,Grenada,29.4,UPPER-MIDDLE-INCOME,3.04,Authoritarian,2020-03-29,526,True
+GRL,North America,56494.0,Greenland,34.1,HIGH-INCOME,9.61,Full democracy,2020-03-22,603,True
+GTM,North America,17843914.0,Guatemala,22.9,UPPER-MIDDLE-INCOME,4.47,Hybrid regime,2020-03-15,855,True
+GUF,South America,304568.0,French Guiana,25.3,LOW-INCOME,2.78,Authoritarian,2020-03-08,106,True
+GUM,Oceania,171783.0,Guam,31.4,HIGH-INCOME,7.93,Flawed democracy,2020-03-22,155,True
+GUY,South America,808727.0,Guyana,26.3,HIGH-INCOME,6.26,Flawed democracy,2020-03-15,554,True
+HND,North America,10432858.0,Honduras,24.9,LOWER-MIDDLE INCOME,4.98,Hybrid regime,2020-03-15,1527,False
+HRV,Europe,4030361.0,Croatia,44.0,HIGH-INCOME,6.5,Flawed democracy,2020-03-01,239,True
+HTI,North America,11585003.0,Haiti,24.3,LOWER-MIDDLE INCOME,2.81,Authoritarian,2020-03-22,1520,False
+HUN,Europe,9967304.0,Hungary,43.4,HIGH-INCOME,6.72,Flawed democracy,2020-03-08,239,True
+IDN,Asia,275501344.0,Indonesia,29.3,UPPER-MIDDLE-INCOME,6.53,Flawed democracy,2020-01-05,1597,False
+IMN,Europe,84534.0,Isle of Man,45.4,HIGH-INCOME,6.52,Flawed democracy,2020-03-22,351,True
+IND,Asia,1417173120.0,India,28.2,LOWER-MIDDLE INCOME,7.18,Flawed democracy,2020-01-05,484,True
+IRL,Europe,5023108.0,Ireland,38.7,HIGH-INCOME,9.19,Full democracy,2020-03-08,232,True
+IRN,Asia,88550568.0,Iran,32.4,LOWER-MIDDLE INCOME,1.96,Authoritarian,2020-01-05,470,True
+IRQ,Asia,44496124.0,Iraq,20.0,UPPER-MIDDLE-INCOME,2.88,Authoritarian,2020-03-01,519,True
+ISL,Europe,372903.0,Iceland,37.3,HIGH-INCOME,9.45,Full democracy,2020-02-09,540,True
+ISR,Asia,9449000.0,Israel,30.6,HIGH-INCOME,7.8,Flawed democracy,2020-02-16,211,True
+ITA,Europe,59037472.0,Italy,47.9,HIGH-INCOME,7.69,Flawed democracy,2020-01-05,302,True
+JAM,North America,2827382.0,Jamaica,31.4,UPPER-MIDDLE-INCOME,7.06,Flawed democracy,2020-03-15,666,True
+JEY,Europe,110796.0,Jersey,39.9,LOW-INCOME,7.98,Flawed democracy,2020-03-15,267,True
+JOR,Asia,11285875.0,Jordan,23.2,LOWER-MIDDLE INCOME,3.04,Authoritarian,2020-03-08,239,True
+JPN,Asia,123951696.0,Japan,48.2,HIGH-INCOME,8.4,Full democracy,2020-01-05,750,True
+KAZ,Asia,19397998.0,Kazakhstan,30.6,UPPER-MIDDLE-INCOME,3.08,Authoritarian,2020-03-15,491,True
+KEN,Africa,54027484.0,Kenya,20.0,LOWER-MIDDLE INCOME,5.05,Hybrid regime,2020-03-15,1527,False
+KGZ,Asia,6630621.0,Kyrgyzstan,26.3,LOWER-MIDDLE INCOME,3.7,Authoritarian,2020-01-05,1597,False
+KHM,Asia,16767851.0,Cambodia,25.6,LOWER-MIDDLE INCOME,3.05,Authoritarian,2020-01-05,1597,False
+KIR,Oceania,131237.0,Kiribati,23.2,LOWER-MIDDLE INCOME,6.62,Flawed democracy,2022-01-23,8,True
+KNA,North America,47681.0,Saint Kitts and Nevis,34.3,HIGH-INCOME,9.0,Full democracy,2020-03-29,449,True
+KOR,Asia,51815808.0,South Korea,43.4,HIGH-INCOME,8.09,Full democracy,2020-01-19,743,True
+KWT,Asia,4268886.0,Kuwait,33.7,HIGH-INCOME,3.5,Authoritarian,2020-03-01,372,True
+LAO,Asia,7529477.0,Laos,24.4,LOWER-MIDDLE INCOME,1.71,Authoritarian,2020-03-29,729,True
+LBN,Asia,5489744.0,Lebanon,31.1,HIGH-INCOME,3.56,Authoritarian,2020-02-23,253,True
+LBR,Africa,5302690.0,Liberia,19.2,LOW-INCOME,5.57,Hybrid regime,2020-03-22,1520,False
+LBY,Africa,6812344.0,Libya,29.0,UPPER-MIDDLE-INCOME,1.78,Authoritarian,2020-03-29,477,True
+LCA,North America,179872.0,Saint Lucia,34.9,UPPER-MIDDLE-INCOME,4.23,Hybrid regime,2020-03-15,323,True
+LIE,Europe,39355.0,Liechtenstein,43.9,HIGH-INCOME,6.17,Flawed democracy,2020-03-08,225,True
+LKA,Asia,21832150.0,Sri Lanka,34.1,LOWER-MIDDLE INCOME,6.17,Flawed democracy,2020-02-02,575,True
+LSO,Africa,2305826.0,Lesotho,22.2,LOWER-MIDDLE INCOME,6.06,Flawed democracy,2020-05-17,1464,False
+LTU,Europe,2750058.0,Lithuania,43.5,HIGH-INCOME,7.31,Flawed democracy,2020-03-22,225,True
+LUX,Europe,647601.0,Luxembourg,39.7,HIGH-INCOME,8.81,Full democracy,2020-03-01,239,True
+LVA,Europe,1850654.0,Latvia,43.9,HIGH-INCOME,7.38,Flawed democracy,2020-03-08,267,True
+MAF,North America,31816.0,Saint Martin (French part),38.5,HIGH-INCOME,7.98,Flawed democracy,2020-03-08,162,True
+MAR,Africa,37457976.0,Morocco,29.6,LOWER-MIDDLE INCOME,5.04,Hybrid regime,2020-03-08,1534,False
+MCO,Europe,36491.0,Monaco,54.4,HIGH-INCOME,7.64,Flawed democracy,2020-01-05,351,True
+MDA,Europe,3272993.0,Moldova,37.6,UPPER-MIDDLE-INCOME,6.23,Flawed democracy,2020-03-08,218,True
+MDG,Africa,29611718.0,Madagascar,19.6,LOW-INCOME,5.26,Hybrid regime,2020-03-22,1520,False
+MDV,Asia,523798.0,Maldives,30.6,UPPER-MIDDLE-INCOME,3.01,Authoritarian,2020-03-08,169,True
+MEX,North America,127504120.0,Mexico,29.3,UPPER-MIDDLE-INCOME,5.14,Hybrid regime,2020-01-01,747,True
+MHL,Oceania,41593.0,Marshall Islands,25.11,UPPER-MIDDLE-INCOME,7.64,Flawed democracy,2020-11-01,652,True
+MKD,Europe,2093606.0,North Macedonia,39.1,UPPER-MIDDLE-INCOME,6.03,Flawed democracy,2020-03-01,246,True
+MLI,Africa,22593598.0,Mali,16.4,LOW-INCOME,2.58,Authoritarian,2020-03-29,1513,False
+MLT,Europe,533293.0,Malta,42.4,HIGH-INCOME,7.93,Flawed democracy,2020-03-08,309,True
+MMR,Asia,54179312.0,Myanmar,29.1,LOWER-MIDDLE INCOME,0.85,Authoritarian,2020-01-05,1597,False
+MNE,Europe,627082.0,Montenegro,39.1,UPPER-MIDDLE-INCOME,6.67,Flawed democracy,2020-05-03,134,True
+MNG,Asia,3398373.0,Mongolia,28.6,LOWER-MIDDLE INCOME,6.48,Flawed democracy,2020-01-05,470,True
+MNP,Oceania,49574.0,Northern Mariana Islands,38.5,HIGH-INCOME,9.3,Full democracy,2020-04-05,603,True
+MOZ,Africa,32969520.0,Mozambique,17.7,LOW-INCOME,3.51,Authoritarian,2020-03-29,1513,False
+MRT,Africa,4736146.0,Mauritania,20.3,LOWER-MIDDLE INCOME,4.14,Hybrid regime,2020-03-15,1527,False
+MSR,North America,4413.0,Montserrat,43.2,LOW-INCOME,4.14,Hybrid regime,2020-03-22,659,True
+MTQ,North America,367512.0,Martinique,45.7,LOW-INCOME,9.3,Full democracy,2020-03-08,239,True
+MUS,Africa,1299478.0,Mauritius,37.4,UPPER-MIDDLE-INCOME,8.14,Full democracy,2020-03-22,526,True
+MWI,Africa,20405318.0,Malawi,18.1,LOW-INCOME,5.85,Hybrid regime,2020-04-05,1506,False
+MYS,Asia,33938216.0,Malaysia,29.9,UPPER-MIDDLE-INCOME,7.29,Flawed democracy,2020-01-26,540,True
+MYT,Africa,326113.0,Mayotte,20.1,UPPER-MIDDLE-INCOME,9.81,Full democracy,2020-03-15,316,True
+NAM,Africa,2567024.0,Namibia,22.0,UPPER-MIDDLE-INCOME,6.52,Flawed democracy,2020-03-15,456,True
+NCL,Oceania,289959.0,New Caledonia,33.4,HIGH-INCOME,7.38,Flawed democracy,2020-03-22,540,True
+NER,Africa,26207982.0,Niger,15.1,LOW-INCOME,2.37,Authoritarian,2020-03-22,1520,False
+NGA,Africa,218541216.0,Nigeria,18.1,LOWER-MIDDLE INCOME,4.23,Hybrid regime,2020-03-01,1541,False
+NIC,North America,6948395.0,Nicaragua,27.3,LOWER-MIDDLE INCOME,2.26,Authoritarian,2020-01-05,1597,False
+NIU,Oceania,1952.0,Niue,35.9,LOW-INCOME,5.41,Hybrid regime,2022-03-13,15,True
+NLD,Europe,17564020.0,Netherlands,43.2,HIGH-INCOME,9.0,Full democracy,2020-03-01,225,True
+NOR,Europe,5434324.0,Norway,39.7,HIGH-INCOME,9.81,Full democracy,2020-02-23,561,True
+NPL,Asia,30547586.0,Nepal,25.0,LOWER-MIDDLE INCOME,4.6,Hybrid regime,2020-01-05,491,True
+NRU,Oceania,12691.0,Nauru,20.2,HIGH-INCOME,2.22,Authoritarian,2022-04-03,78,True
+NZL,Oceania,5185289.0,New Zealand,37.9,HIGH-INCOME,9.61,Full democracy,2020-03-01,722,True
+OMN,Asia,4576300.0,Oman,30.7,HIGH-INCOME,3.12,Authoritarian,2020-03-01,120,True
+OWID_KOS,Europe,1782115.0,Kosovo,30.9,UPPER-MIDDLE-INCOME,9.14,Full democracy,2020-03-15,239,True
+PAK,Asia,235824864.0,Pakistan,23.5,LOWER-MIDDLE INCOME,3.25,Authoritarian,2020-03-01,1541,False
+PAN,North America,4408582.0,Panama,29.7,HIGH-INCOME,6.91,Flawed democracy,2020-03-15,127,True
+PCN,Oceania,47.0,Pitcairn,38.9,HIGH-INCOME,1.94,Authoritarian,2022-07-24,1,True
+PER,South America,34049588.0,Peru,29.1,UPPER-MIDDLE-INCOME,5.81,Hybrid regime,2020-03-08,169,True
+PHL,Asia,115559008.0,Philippines,25.2,LOWER-MIDDLE INCOME,6.66,Flawed democracy,2020-01-05,743,True
+PLW,Oceania,18084.0,Palau,35.7,UPPER-MIDDLE-INCOME,6.17,Flawed democracy,2021-08-22,148,True
+PNG,Oceania,10142625.0,Papua New Guinea,22.6,LOWER-MIDDLE INCOME,6.03,Flawed democracy,2020-03-22,1520,False
+POL,Europe,39857144.0,Poland,41.8,HIGH-INCOME,7.18,Flawed democracy,2020-03-08,232,True
+PRI,North America,3252412.0,Puerto Rico,38.2,HIGH-INCOME,7.8,Flawed democracy,2020-03-15,246,True
+PRT,Europe,10270857.0,Portugal,46.2,HIGH-INCOME,7.75,Flawed democracy,2020-02-23,253,True
+PRY,South America,6780745.0,Paraguay,26.5,UPPER-MIDDLE-INCOME,6.0,Flawed democracy,2020-03-15,372,True
+PSE,Asia,5250076.0,Palestine,20.4,UPPER-MIDDLE-INCOME,3.47,Authoritarian,2020-03-08,267,True
+PYF,Oceania,306292.0,French Polynesia,32.7,HIGH-INCOME,6.41,Flawed democracy,2020-03-15,211,True
+QAT,Asia,2695131.0,Qatar,31.9,HIGH-INCOME,3.65,Authoritarian,2020-03-01,64,True
+REU,Africa,974062.0,Reunion,36.0,HIGH-INCOME,4.14,Hybrid regime,2020-03-15,505,True
+ROU,Europe,19659270.0,Romania,43.0,HIGH-INCOME,6.45,Flawed democracy,2020-03-01,246,True
+RUS,Europe,144713312.0,Russia,39.6,UPPER-MIDDLE-INCOME,2.22,Authoritarian,2020-01-05,666,True
+RWA,Africa,13776702.0,Rwanda,20.3,LOW-INCOME,3.3,Authoritarian,2020-03-15,1527,False
+SAU,Asia,36408824.0,Saudi Arabia,31.9,HIGH-INCOME,2.08,Authoritarian,2020-03-08,1534,False
+SDN,Africa,46874200.0,Sudan,19.7,LOW-INCOME,2.47,Authoritarian,2020-03-15,1527,False
+SEN,Africa,17316452.0,Senegal,18.7,LOWER-MIDDLE INCOME,5.48,Hybrid regime,2020-03-08,1534,False
+SGP,Asia,5637022.0,Singapore,42.4,HIGH-INCOME,6.18,Flawed democracy,2020-01-26,610,True
+SHN,Africa,5401.0,Saint Helena,51.5,LOW-INCOME,8.07,Full democracy,2022-08-14,8,True
+SLB,Oceania,724272.0,Solomon Islands,20.8,LOWER-MIDDLE INCOME,7.16,Flawed democracy,2020-10-04,491,True
+SLE,Africa,8605723.0,Sierra Leone,19.1,LOW-INCOME,4.32,Hybrid regime,2020-04-05,1506,False
+SLV,North America,6336393.0,El Salvador,27.6,UPPER-MIDDLE-INCOME,4.71,Hybrid regime,2020-03-22,701,True
+SMR,Europe,33690.0,San Marino,46.7,HIGH-INCOME,1.96,Authoritarian,2020-03-01,22,True
+SOM,Africa,17597508.0,Somalia,16.8,LOW-INCOME,7.06,Flawed democracy,2020-03-22,1520,False
+SPM,North America,5885.0,Saint Pierre and Miquelon,44.1,LOW-INCOME,7.18,Flawed democracy,2020-04-12,589,True
+SRB,Europe,6871547.0,Serbia,41.2,UPPER-MIDDLE-INCOME,6.33,Flawed democracy,2020-03-08,246,True
+SSD,Africa,10913172.0,South Sudan,19.2,LOW-INCOME,1.76,Authoritarian,2020-04-12,1499,False
+STP,Africa,227393.0,Sao Tome and Principe,18.7,LOWER-MIDDLE INCOME,6.17,Flawed democracy,2020-04-12,638,True
+SUR,South America,618046.0,Suriname,29.6,UPPER-MIDDLE-INCOME,6.88,Flawed democracy,2020-03-15,442,True
+SVK,Europe,5643455.0,Slovakia,41.2,HIGH-INCOME,7.07,Flawed democracy,2020-03-08,225,True
+SVN,Europe,2119843.0,Slovenia,44.5,HIGH-INCOME,7.75,Flawed democracy,2020-03-08,225,True
+SWE,Europe,10549349.0,Sweden,41.0,HIGH-INCOME,9.39,Full democracy,2020-02-09,274,True
+SWZ,Africa,1201680.0,Eswatini,21.5,LOWER-MIDDLE INCOME,2.78,Authoritarian,2020-03-15,505,True
+SXM,North America,44192.0,Sint Maarten (Dutch part),47.0,HIGH-INCOME,2.22,Authoritarian,2020-03-22,148,True
+SYC,Africa,107135.0,Seychelles,36.2,HIGH-INCOME,7.75,Flawed democracy,2020-03-15,302,True
+SYR,Asia,22125242.0,Syria,21.7,LOW-INCOME,1.43,Authoritarian,2020-03-29,1513,False
+TCA,North America,45726.0,Turks and Caicos Islands,37.7,HIGH-INCOME,7.05,Flawed democracy,2020-03-29,141,True
+TCD,Africa,17723312.0,Chad,16.7,LOW-INCOME,1.67,Authoritarian,2020-03-22,1520,False
+TGO,Africa,8848700.0,Togo,19.4,LOW-INCOME,2.99,Authoritarian,2020-03-08,1534,False
+THA,Asia,71697024.0,Thailand,40.1,UPPER-MIDDLE-INCOME,6.35,Flawed democracy,2020-01-04,583,True
+TJK,Asia,9952789.0,Tajikistan,23.3,LOWER-MIDDLE INCOME,1.94,Authoritarian,2020-05-03,1478,False
+TKL,Oceania,1893.0,Tokelau,26.6,LOW-INCOME,7.05,Flawed democracy,2020-01-05,1079,True
+TLS,Asia,1341298.0,Timor,18.0,LOWER-MIDDLE INCOME,7.06,Flawed democracy,2020-03-22,1520,False
+TON,Oceania,106867.0,Tonga,22.3,UPPER-MIDDLE-INCOME,6.41,Flawed democracy,2021-10-31,127,True
+TTO,North America,1531043.0,Trinidad and Tobago,36.2,HIGH-INCOME,7.16,Flawed democracy,2020-03-15,435,True
+TUN,Africa,12356116.0,Tunisia,32.7,LOWER-MIDDLE INCOME,5.51,Hybrid regime,2020-03-08,477,True
+TUR,Asia,85341248.0,Turkey,31.6,UPPER-MIDDLE-INCOME,4.33,Hybrid regime,2020-01-05,337,True
+TUV,Oceania,11335.0,Tuvalu,25.0,UPPER-MIDDLE-INCOME,4.47,Hybrid regime,2022-05-22,169,True
+TZA,Africa,65497752.0,Tanzania,17.7,LOWER-MIDDLE INCOME,5.35,Hybrid regime,2020-03-22,1520,False
+UGA,Africa,47249588.0,Uganda,16.4,LOW-INCOME,4.49,Hybrid regime,2020-03-22,1520,False
+UKR,Europe,39701744.0,Ukraine,41.4,LOWER-MIDDLE INCOME,5.06,Hybrid regime,2020-03-15,246,True
+URY,South America,3422796.0,Uruguay,35.6,HIGH-INCOME,8.66,Full democracy,2020-03-15,309,True
+USA,North America,338289856.0,United States,38.3,HIGH-INCOME,7.85,Flawed democracy,2020-01-05,309,True
+UZB,Asia,34627648.0,Uzbekistan,28.2,LOWER-MIDDLE INCOME,2.12,Authoritarian,2020-01-05,1597,False
+VAT,Europe,808.0,Vatican,57.6,LOW-INCOME,9.81,Full democracy,2020-01-05,85,True
+VCT,North America,103959.0,Saint Vincent and the Grenadines,31.8,UPPER-MIDDLE-INCOME,6.62,Flawed democracy,2020-03-15,309,True
+VEN,South America,28301700.0,Venezuela,29.0,UPPER-MIDDLE-INCOME,2.31,Authoritarian,2020-03-15,1527,False
+VGB,North America,31332.0,British Virgin Islands,38.6,HIGH-INCOME,8.28,Full democracy,2020-03-29,463,True
+VIR,North America,99479.0,United States Virgin Islands,42.2,HIGH-INCOME,7.96,Flawed democracy,2020-03-22,148,True
+VNM,Asia,98186856.0,Vietnam,32.6,LOWER-MIDDLE INCOME,2.62,Authoritarian,2020-01-26,757,True
+VUT,Oceania,326744.0,Vanuatu,23.1,LOWER-MIDDLE INCOME,8.66,Full democracy,2020-11-15,491,True
+WLF,Oceania,11596.0,Wallis and Futuna,36.2,LOW-INCOME,9.28,Full democracy,2020-10-25,141,True
+WSM,Oceania,222390.0,Samoa,22.0,LOWER-MIDDLE INCOME,4.98,Hybrid regime,2020-12-06,477,True
+YEM,Asia,33696612.0,Yemen,20.3,LOW-INCOME,1.95,Authoritarian,2020-04-12,1499,False
+ZAF,Africa,59893884.0,South Africa,27.3,UPPER-MIDDLE-INCOME,7.05,Flawed democracy,2020-01-09,368,True
+ZMB,Africa,20017670.0,Zambia,17.7,LOWER-MIDDLE INCOME,5.8,Hybrid regime,2020-03-22,1520,False
+ZWE,Africa,16320539.0,Zimbabwe,19.6,LOWER-MIDDLE INCOME,3.04,Authoritarian,2020-03-22,1520,False
