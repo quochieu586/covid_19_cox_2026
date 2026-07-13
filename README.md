@@ -147,7 +147,7 @@ Early Warning System
 If you find this repository useful in your research, please consider citing our manuscript.
 
 ```bibtex
-@misc{tran2026covid,
+@misc{phan2026covid,
   author = {Phan, Thi Huong and Tran, Quoc Hieu and Tran, Quoc Trung and Nguyen, Tien Dung},
   title = {Globally modeling the duration of reaching the risk tipping point in the Covid-19 outbreaks},
   year = {2026},
